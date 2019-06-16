@@ -11,7 +11,6 @@ MSc in Data Science | Amazon Business Intelligence
 | <a href="https://github.com/RussoMarioDamiano">github.com/RussoMarioDamiano</a>
 </div>
 
-
 ## Currently
 
 Standing on the shoulders of giants
