@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Mario Damiano Russo's CV
 ---
 # Mario Damiano Russo
 MSc in Data Science | Amazon Business Intelligence
@@ -15,6 +15,8 @@ MSc in Data Science | Amazon Business Intelligence
 
 `Sep 2018 - Oct 2020`
 __Bocconi University, Milan (Italy)__
+- MSc in Data Science and Business Analytics - Statistics
+- CGPA: 28.95/30
 
 `June 1661 - now`
 __Trinity College, Cambridge__
