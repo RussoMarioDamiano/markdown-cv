@@ -25,7 +25,7 @@ __Bocconi University__, Milan (Italy)
 - CGPA: 27.6/30, Graduation Grade: 105/110
 
 `February 2018 - June 2018`
-__Tsinghua University__ Beijing (China)
+__Tsinghua University__, Beijing (China)
 - Exchange semester
 - Coursework: Industrial Economics, Strategic Management, Chinese B1
 
@@ -33,15 +33,13 @@ __Tsinghua University__ Beijing (China)
 ## Work Experience
 
 `June 2019 - August 2019`
-__Amazon__, London (United Kingdom)
-- *Business Intelligence Intern*
--- Amazon Web Services data pipelining, data extraction, and data modeling
--- Data analytics, machine learning, econometric modeling and time series analysis
-
-`March 2019 - September 2019`
-__Bocconi Institute for Data Science and Analytics (BIDSA)__, Milan (Italy)
+__Business Intelligence Intern, *Amazon*__, London (United Kingdom)
 - Amazon Web Services data pipelining, data extraction, and data modeling
 - Data analytics, machine learning, econometric modeling and time series analysis
+
+`March 2019 - September 2019`
+__Visiting Student Researcher, Bocconi Institute for Data Science and Analytics (BIDSA)__, Milan (Italy)
+- Researcher in applied Bayesian Statistics and Causal Inference analysis.
 
 `Jun 2019 - Aug 2019`
 __Divisible Global__, Milan (Italy)
