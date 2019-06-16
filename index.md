@@ -14,38 +14,47 @@ MSc in Data Science | Amazon Business Intelligence
 
 ## Education
 
-`September 2018 - today`
+`Sep 2018 - today`
 __Bocconi University__, Milan (Italy)
 - *MSc in Data Science and Business Analytics* - Statistics
 - CGPA: 28.95/30
 
-`September 2015 - October 2018`
+`Sep 2015 - Oct 2018`
 __Bocconi University__, Milan (Italy)
 - *BSc in International Economics and Management* - Economics and Business
 - CGPA: 27.6/30, Graduation Grade: 105/110
 
-`February 2018 - June 2018`
+`Feb 2018 - Jun 2018`
 __Tsinghua University__, Beijing (China)
 - Exchange semester
 - Coursework: Industrial Economics, Strategic Management, Chinese B1
 
 
-## Work Experience
+## Experience
 
-`June 2019 - August 2019`
+### Work Experience
+
+`Jun 2019 - Aug 2019`
 __Business Intelligence Intern, *Amazon*__, London (United Kingdom)
 - Amazon Web Services data pipelining, data extraction, and data modeling
 - Data analytics, machine learning, econometric modeling and time series analysis
 
-`March 2019 - September 2019`
-__Visiting Student Researcher, Bocconi Institute for Data Science and Analytics (BIDSA)__, Milan (Italy)
-- Researcher in applied Bayesian Statistics and Causal Inference analysis.
+`Mar 2019 - Sep 2019`
+__Visiting Student Researcher, Bocconi Institute for Data Science and Analytics__, Milan (Italy)
+- Research in applied Bayesian Statistics and Causal Inference.
 
 `Jun 2019 - Aug 2019`
 __Divisible Global__, Milan (Italy)
 - Amazon Web Services data pipelining, data extraction, and data modeling
 - Data analytics, machine learning, econometric modeling and time series analysis
 
+### Academic Service
+
+`Sep 2017 - Sep 2018`
+__Course Represesntative in the BSc International Management Board, Bocconi University__, Milan (Italy)
+
+`Sep 2018 - Sep 2019`
+__Course Represesntative in the MSc in Data Science Board, Bocconi University__, Milan (Italy)
 
 
 ## Publications
