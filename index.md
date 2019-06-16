@@ -3,11 +3,11 @@ layout: cv
 title: Isaac Newtons's CV
 ---
 # Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+MSc in Data Science | Amazon Business Intelligence
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="russomariod@gmail.com">russomariod@gmail.com</a>
+| <a href="https://www.linkedin.com/in/mariodamianorusso/">linkedin.com/mariodamianorusso</a>
 </div>
 
 
