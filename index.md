@@ -23,12 +23,10 @@ __Bocconi University__, Milan (Italy)
 - BSc in International Economics and Management - Economics and Business
 - CGPA: 27.6/30, Graduation Grade: 105/110
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+`February 2018 - June 2018`
+__Tsinghua University__ Beijing (China)
+- Exchange semester
+- Coursework: Industrial Economics, Strategic Management, Chinese B1
 
 ## Awards
 
