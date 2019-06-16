@@ -13,15 +13,15 @@ MSc in Data Science | Amazon Business Intelligence
 
 ## Education
 
-`Sep 2018 - Oct 2020`
-__Bocconi University, Milan (Italy)__
+`September 2018 - today`
+__Bocconi University__, Milan (Italy)
 - MSc in Data Science and Business Analytics - Statistics
 - CGPA: 28.95/30
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
+`September 2015 - October 2018`
+__Bocconi University__, Milan (Italy)
+- BSc in International Economics and Management - Economics and Business
+- CGPA: 27.6/30, Graduation Grade: 105/110
 
 `1667 - death`
 __Trinity College, Cambridge__
