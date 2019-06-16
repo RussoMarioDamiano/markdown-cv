@@ -51,22 +51,28 @@ __Divisible Global__, Milan (Italy)
 ### Academic Service
 
 `Sep 2017 - Sep 2018`
-__Course Represesntative in the BSc International Management Board, Bocconi University__, Milan (Italy)
+__Course Representative in the BSc International Management Board, *Bocconi University*__, Milan (Italy)
 
 `Sep 2018 - Sep 2019`
-__Course Represesntative in the MSc in Data Science Board, Bocconi University__, Milan (Italy)
+__Course Representative in the MSc in Data Science Board, *Bocconi University*__, Milan (Italy)
 
 
 ## IT and Computer Science Skills
-### Languages
+
+### Languages and environments
 - __Python__: advanced knowledge for Data Science
 - __SQL__: advanced knowledge
 - __R__: intermediate knowledge for Data Science
 - __Amazon Web Services__: advanced knowledge of cloud computing systems
 - __Stata__: intermediate knowledge
 
+### Applications
+- __Machine Learning__
+- __Natural Language Processing__
+- __Econometric Modeling__
+- __Mathematical Agent-based Models__
 
-## Occupation
+## Languages
 
 `1600`
 __Royal Mint__, London
