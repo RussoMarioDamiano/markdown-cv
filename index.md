@@ -11,16 +11,17 @@ MSc in Data Science | Amazon Business Intelligence
 | <a href="https://github.com/RussoMarioDamiano">github.com/RussoMarioDamiano</a>
 </div>
 
+
 ## Education
 
 `September 2018 - today`
 __Bocconi University__, Milan (Italy)
-- MSc in Data Science and Business Analytics - Statistics
+- *MSc in Data Science and Business Analytics* - Statistics
 - CGPA: 28.95/30
 
 `September 2015 - October 2018`
 __Bocconi University__, Milan (Italy)
-- BSc in International Economics and Management - Economics and Business
+- *BSc in International Economics and Management* - Economics and Business
 - CGPA: 27.6/30, Graduation Grade: 105/110
 
 `February 2018 - June 2018`
@@ -28,12 +29,24 @@ __Tsinghua University__ Beijing (China)
 - Exchange semester
 - Coursework: Industrial Economics, Strategic Management, Chinese B1
 
-## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+## Work Experience
 
-Associate, *French Academy of Science*, Paris, France
+`June 2019 - August 2019`
+__Amazon__, London (United Kingdom)
+- *Business Intelligence Intern*
+-- Amazon Web Services data pipelining, data extraction, and data modeling
+-- Data analytics, machine learning, econometric modeling and time series analysis
+
+`March 2019 - September 2019`
+__Bocconi Institute for Data Science and Analytics (BIDSA)__, Milan (Italy)
+- Amazon Web Services data pipelining, data extraction, and data modeling
+- Data analytics, machine learning, econometric modeling and time series analysis
+
+`Jun 2019 - Aug 2019`
+__Divisible Global__, Milan (Italy)
+- Amazon Web Services data pipelining, data extraction, and data modeling
+- Data analytics, machine learning, econometric modeling and time series analysis
 
 
 
