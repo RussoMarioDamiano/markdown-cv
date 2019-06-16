@@ -2,12 +2,13 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
+# Mario Damiano Russo
 MSc in Data Science | Amazon Business Intelligence
 
 <div id="webaddress">
 <a href="russomariod@gmail.com">russomariod@gmail.com</a>
 | <a href="https://www.linkedin.com/in/mariodamianorusso/">linkedin.com/mariodamianorusso</a>
+| <a href="https://github.com/RussoMarioDamiano">github.com/RussoMarioDamiano</a>
 </div>
 
 
