@@ -11,24 +11,10 @@ MSc in Data Science | Amazon Business Intelligence
 | <a href="https://github.com/RussoMarioDamiano">github.com/RussoMarioDamiano</a>
 </div>
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Sep 2018 - Oct 2020`
+__Bocconi University, Milan (Italy)__
 
 `June 1661 - now`
 __Trinity College, Cambridge__
