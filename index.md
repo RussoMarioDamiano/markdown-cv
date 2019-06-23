@@ -4,7 +4,7 @@ title: Mario Damiano Russo's CV
 ---
 
 # Mario Damiano Russo
-MSc in Data Science | Amazon Business Intelligence
+MSc in Data Science | Amazon Business IntelligenceA
 
 <div id="webaddress">
 <a href="russomariod@gmail.com">russomariod@gmail.com</a>
