@@ -59,29 +59,14 @@ __Course Representative in the MSc in Data Science Board, *Bocconi University*__
 
 ## IT and Computer Science Skills
 
-### Languages and environments
-- __Python__: advanced knowledge for Data Science
-- __SQL__: advanced knowledge
-- __R__: intermediate knowledge for Data Science
-- __Amazon Web Services__: advanced knowledge of cloud computing systems
-- __Stata__: intermediate knowledge
-
-### Applications
-- __Machine Learning__
-- __Natural Language Processing__
-- __Econometric Modeling__
-- __Mathematical Agent-based Models__
+- __Python__, __SQL__, __R__, __AWS__, __Stata__
+- __Machine Learning__, __Natural Language Processing__, __Econometric Modeling__, __Mathematical Modeling__
 
 ## Languages
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- __Italian__: native
+- __English__: fluent (Cambridge CPE C2)
+- __Spanish__: Intermediate (B1)
+- __Chinese (spoken)__: Intermediate (B1)
 
 
 
