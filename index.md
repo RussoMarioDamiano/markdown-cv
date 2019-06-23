@@ -45,8 +45,8 @@ __Visiting Student Researcher, Bocconi Institute for Data Science and Analytics_
 
 `Jun 2019 - Aug 2019`
 __Divisible Global__, Milan (Italy)
-- Amazon Web Services data pipelining, data extraction, and data modeling
-- Data analytics, machine learning, econometric modeling and time series analysis
+- Data Scraping, data mangling
+- Best performing intern. Received offer at the end of internship.
 
 ### Academic Service
 
