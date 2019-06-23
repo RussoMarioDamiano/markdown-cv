@@ -50,7 +50,7 @@ __*Bocconi Institute for Data Science and Analytics*__, Milan (Italy)
 
 `Jun 2019 - Aug 2019`
 __Data Analyst Intern__
-__Divisible Global__, Milan (Italy)
+__*Divisible Global*__, Milan (Italy)
 - Data Scraping, data mangling
 - Best performing intern. Received offer at the end of internship.
 
