@@ -60,7 +60,7 @@ __Course Representative in the MSc in Data Science Board, *Bocconi University*__
 ## IT and Computer Science Skills
 
 - __Python__, __SQL__, __R__, __AWS__, __Stata__
-- __Machine Learning__, __Natural Language Processing__, __Econometric Modeling__, __Mathematical Modeling__
+- __Machine Learning__, __Natural Language Processing__, __Mathematical Modeling__
 
 ## Languages
 - __Italian__: native
@@ -72,6 +72,6 @@ __Course Representative in the MSc in Data Science Board, *Bocconi University*__
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Jun 2019 -->
 
 
