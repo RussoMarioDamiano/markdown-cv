@@ -38,18 +38,18 @@ __Tsinghua University__, Beijing (China)
 ### Work Experience
 
 `Jun 2019 - Aug 2019`
-__Business Intelligence Intern__ 
+__Business Intelligence Intern__, 
 __*Amazon*__, London (United Kingdom)
   - Amazon Web Services data pipelining, data extraction, and data modeling
-  - Data analytics, machine learning, econometric modeling and time series analysis
+  - Machine learning, econometric modeling and time series analysis
 
 `Mar 2019 - Sep 2019`
-__Visiting Student Researcher__
+__Visiting Student Researcher__,
 __*Bocconi Institute for Data Science and Analytics*__, Milan (Italy)
 - Research in applied Bayesian Statistics and Causal Inference.
 
 `Jun 2019 - Aug 2019`
-__Data Analyst Intern__
+__Data Analyst Intern__,
 __*Divisible Global*__, Milan (Italy)
 - Data Scraping, data mangling
 - Best performing intern. Received offer at the end of internship.
@@ -65,8 +65,8 @@ __Course Representative in the MSc in Data Science Board, *Bocconi University*__
 
 ## IT and Computer Science Skills
 
-- __Python__, __SQL__, __R__, __AWS__, __Stata__
-- __Machine Learning__, __Natural Language Processing__, __Mathematical Modeling__
+- __Python__, __SQL__, __R__, __AWS__, __Stata__,
+- __Machine Learning__, __Natural Language Processing__, __Mathematical Modeling__, __Cloud Computing__, __Dashboard Automation__
 
 ## Languages
 - __Italian__: native
